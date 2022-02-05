@@ -2,7 +2,7 @@ import flatpickr from 'flatpickr';
 require("flatpickr/dist/themes/dark.css");
 import Notiflix from 'notiflix';
 // Дополнительный импорт стилей
-import 'flatpickr/dist/flatpickr.min.css';
+
 
 
 const dayVl = document.querySelector('[data-days]');
